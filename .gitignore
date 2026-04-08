@@ -1,0 +1,7 @@
+node_modules/
+target/
+*.so
+*.json
+.DS_Store
+.idea/
+.vscode/
